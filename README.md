@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pkundu307
 - 👀 I’m interested in ... coding
-- 🌱 I’m currently learning ... web devolopement(front-end)
+- 🌱 I’m currently teaching ... web devolopement(full-stack)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...pkundu307@gmail.com
 
