@@ -35,10 +35,9 @@ I'm a passionate developer with experience in various programming languages and 
 
 ## 🚀 Projects
 Here are a few of my favorite projects:
-- **[Project Name](https://github.com/yourusername/project-name)**: A brief description of the project.
-- **[Another Project](https://github.com/yourusername/another-project)**: Another brief description.
+- **[Mobi jwellery](mern-ecommerce-ebon.vercel.app/)**:full fledge ecommerce site
 
-Feel free to check out the rest of my [repositories](https://github.com/yourusername?tab=repositories) to see what else I've been working on!
+Feel free to check out the rest of my [repositories](https://github.com/pkundu307?tab=repositories) to see what else I've been working on!
 
 ---
 
