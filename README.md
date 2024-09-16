@@ -35,7 +35,7 @@ I'm a passionate developer with experience in various programming languages and 
 
 ## 🚀 Projects
 Here are a few of my favorite projects:
-- **[Mobi jwellery](mern-ecommerce-ebon.vercel.app/)**:full fledge ecommerce site
+- **[Mobi jwellery](https://github.com/pkundu307/mobi-jewellery)**:full fledge ecommerce site
 
 Feel free to check out the rest of my [repositories](https://github.com/pkundu307?tab=repositories) to see what else I've been working on!
 
