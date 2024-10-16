@@ -1,6 +1,6 @@
 # Hi there, I'm Prasanna Kundu! 👋
 
-![Profile Banner](https://media.licdn.com/dms/image/D4D03AQGpJ6ZRciikMQ/profile-displayphoto-shrink_200_200/0/1708356076490?e=2147483647&v=beta&t=LaD_yK17OhTDdmqtnWFH-odPN2T4s0BKyi0iJf-0ipY)
+![Profile Banner](https://instagram.fdel1-8.fna.fbcdn.net/v/t51.29350-15/462372646_899772818285376_3449002115435067721_n.webp?stp=dst-jpg_e35&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xNDQweDE0NDAuc2RyLmYyOTM1MC5kZWZhdWx0X2ltYWdlIn0&_nc_ht=instagram.fdel1-8.fna.fbcdn.net&_nc_cat=100&_nc_ohc=gq3ekQ1MoTgQ7kNvgGeJByk&_nc_gid=2fe3805ddb4f4cce85a5a60b59f97ae0&edm=AP4sbd4BAAAA&ccb=7-5&ig_cache_key=MzQ3NTQyMDMwNTI3MDE3ODE4OQ%3D%3D.3-ccb7-5&oh=00_AYC9E06Cwsk1xOwVWXh87r5zjlnlYRpQsPGmWZAnh-jWjg&oe=671577D9&_nc_sid=7a9f4b)
 
 I'm a passionate developer with experience in various programming languages and technologies. I love building innovative and responsive applications, and I'm always exploring new tools and frameworks to improve my skills.
 
