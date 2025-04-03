@@ -36,6 +36,7 @@ I'm a passionate developer with experience in various programming languages and 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-257bd6?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
@@ -50,6 +51,7 @@ Feel free to check out the rest of my [repositories](https://github.com/pkundu30
 ## 🔗 Let's Connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prasanna-kundu-08319b194/)
+
 
 
 Thanks for stopping by! 😄
